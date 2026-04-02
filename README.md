@@ -1,5 +1,5 @@
 zzz# javascript
-zz
+z
 dd
 ss
 d
